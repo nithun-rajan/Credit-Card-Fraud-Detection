@@ -33,12 +33,6 @@ Displays transaction amount over time, colored by fraud class.
 
 ---
 
-### 🧾 Classification Report & Confusion Matrix
-Evaluates model performance on precision, recall, and F1-score.
-<img src="Screenshot 2025-06-08 at 9.07.45 PM.png" width="600"/>
-
----
-
 
 ## 🔧 Techniques Used
 
