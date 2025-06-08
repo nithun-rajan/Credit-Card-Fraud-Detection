@@ -19,19 +19,26 @@ The dataset used is from [Kaggle - Credit Card Fraud Detection](https://www.kagg
 > Note: The dataset is not included in this repository due to size limits.
 
 ---
-
 ## 📈 Visualizations
 
-### 🔹 Confusion Matrix  
-<img src="confusion_matrix.png" width="500"/>
-
-### 🔹 Transaction Amount vs Time by Class  
-<img src="relplot.png" width="500"/>
-
-### 🔹 Classification Report  
-<img src="classification_report.png" width="500"/>
+### 📊 Class Distribution (Normal vs Fraud)
+Shows the imbalance between normal and fraudulent transactions.
+<img src="Figure_1.png" width="600"/>
 
 ---
+
+### 🔍 Amount vs Time (Color-Coded by Class)
+Displays transaction amount over time, colored by fraud class.
+<img src="Figure_2.png" width="600"/>
+
+---
+
+### 🧾 Classification Report & Confusion Matrix
+Evaluates model performance on precision, recall, and F1-score.
+<img src="Screenshot 2025-06-08 at 9.07.45 PM.png" width="600"/>
+
+---
+
 
 ## 🔧 Techniques Used
 
